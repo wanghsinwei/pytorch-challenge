@@ -1,4 +1,4 @@
-# PyTorch Scholarship Challenge from Facebook
+# [PyTorch Scholarship Challenge from Facebook](https://www.udacity.com/facebook-pytorch-scholarship)
 ## Final Challenge Project
 
 ## Project Overview
